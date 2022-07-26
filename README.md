@@ -3,7 +3,7 @@
 
 Built a To-Do mobile application with the help of Provider package which helps manage the app state. Interactive UI and CRUD based application helps user to set a task, update it and delete it. User can see or view all the tasks in the todo list. It helped me in basic understanding of Flutter state management.
 
-## thing i learnt throught this project 
+## Thing i learnt throught this project 
 
 - Understand what is state and why we need to manage it.
 - Understand the difference between ephemeral (local) state and app state.
