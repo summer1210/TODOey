@@ -1,18 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # Todoey ✓
 
-## Our Goal
+Built a To-Do mobile application with the help of Provider package which helps manage the app state. Interactive UI and CRUD based application helps user to set a task, update it and delete it. User can see or view all the tasks in the todo list. It helped me in basic understanding of Flutter state management.
 
-The objective of this tutorial is to understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
-
-
-## What you will create
-
-A todolist app to keep track of all your tasks.
-
-## What you will learn
+## thing i learnt throught this project 
 
 - Understand what is state and why we need to manage it.
 - Understand the difference between ephemeral (local) state and app state.
@@ -25,7 +16,9 @@ A todolist app to keep track of all your tasks.
 - Learn about design patterns and why they are useful.
 - Understand how the Provider package works and use it to manage app state.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+<img width="126" alt="Screenshot 2022-07-26 at 21 23 24" src="https://user-images.githubusercontent.com/70427674/181052645-d94f5a9c-1fec-4224-99ce-539b18d4c789.png">
+<img width="126" alt="Screenshot 2022-07-26 at 21 23 17" src="https://user-images.githubusercontent.com/70427674/181052657-270a6a3d-6b69-4cdf-8045-52386fe958c3.png">
+
+
 
